@@ -1,0 +1,69 @@
+<!--<?xml version="1.0" encoding="ISO-8859-1" ?>-->
+<!--<!DOCTYPE tiles-definitions PUBLIC-->
+       <!--"-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"-->
+       <!--"http://tiles.apache.org/dtds/tiles-config_3_0.dtd">-->
+<!--<tiles-definitions>-->
+
+	<!--&lt;!&ndash; Templates &ndash;&gt;-->
+	<!---->
+	<!--<definition name="layout.main" template="/WEB-INF/pages/layout/main.jsp">-->
+		<!--<put-attribute name="title" value="BRAC University" />-->
+	<!--<put-attribute name="header" value="/WEB-INF/pages/layout/header.jsp" />-->
+		<!--<put-attribute name="leftmenu" value="/WEB-INF/pages/layout/leftmenu.jsp" />-->
+		<!--<put-attribute name="body" value="" />-->
+		<!--&lt;!&ndash; <put-attribute name="footer" value="/WEB-INF/tiles/view/footer.jsp" /> &ndash;&gt;-->
+	<!--</definition>-->
+	<!---->
+	<!--&lt;!&ndash; Pages &ndash;&gt;	-->
+	<!--&lt;!&ndash;&ndash;&gt;-->
+	<!--&lt;!&ndash;<definition name="user.ndex" extends="layout.main">&ndash;&gt;-->
+		<!--&lt;!&ndash;<put-attribute name="body" value="/WEB-INF/pages/index.jsp" />&ndash;&gt;-->
+	<!--&lt;!&ndash;</definition>&ndash;&gt;-->
+ <!--&lt;!&ndash;&ndash;&gt;-->
+	<!--&lt;!&ndash;<definition name="company/create" extends="layout.main">&ndash;&gt;-->
+		<!--&lt;!&ndash;<put-attribute name="body" value="/WEB-INF/pages/company/create.jsp" />&ndash;&gt;-->
+	<!--&lt;!&ndash;</definition>&ndash;&gt;-->
+	<!--&lt;!&ndash;&ndash;&gt;-->
+	<!--&lt;!&ndash;<definition name="employee/createEmployee" extends="layout.main">&ndash;&gt;-->
+		<!--&lt;!&ndash;<put-attribute name="body" value="/WEB-INF/pages/employee/createEmployee.jsp" />&ndash;&gt;-->
+	<!--&lt;!&ndash;</definition>&ndash;&gt;-->
+	<!--&lt;!&ndash;<definition name="employee/employeeList" extends="layout.main">&ndash;&gt;-->
+		<!--&lt;!&ndash;<put-attribute name="body" value="/WEB-INF/pages/employee/employeeList.jsp" />&ndash;&gt;-->
+	<!--&lt;!&ndash;</definition>&ndash;&gt;-->
+	<!--&lt;!&ndash;&ndash;&gt;-->
+	<!--&lt;!&ndash;<definition name="employee/profile" extends="layout.main">&ndash;&gt;-->
+		<!--&lt;!&ndash;<put-attribute name="body" value="/WEB-INF/pages/employee/profile.jsp" />&ndash;&gt;-->
+	<!--&lt;!&ndash;</definition>&ndash;&gt;-->
+	<!--&lt;!&ndash;<definition name="employee/empEdit" extends="layout.main">&ndash;&gt;-->
+		<!--&lt;!&ndash;<put-attribute name="body" value="/WEB-INF/pages/employee/empEdit.jsp" />&ndash;&gt;-->
+	<!--&lt;!&ndash;</definition>&ndash;&gt;-->
+	<!--&lt;!&ndash;&ndash;&gt;-->
+	<!--&lt;!&ndash;<definition name="leavetype/create" extends="layout.main">&ndash;&gt;-->
+		<!--&lt;!&ndash;<put-attribute name="body" value="/WEB-INF/pages/leavetype/create.jsp" />&ndash;&gt;-->
+	<!--&lt;!&ndash;</definition>&ndash;&gt;-->
+	<!--&lt;!&ndash;<definition name="paySlip/paySlip" extends="layout.main">&ndash;&gt;-->
+		<!--&lt;!&ndash;<put-attribute name="body" value="/WEB-INF/pages/paySlip/paySlip.jsp" />&ndash;&gt;-->
+	<!--&lt;!&ndash;</definition>&ndash;&gt;-->
+	<!--&lt;!&ndash;<definition name="paySlip/paySlipList" extends="layout.main">&ndash;&gt;-->
+		<!--&lt;!&ndash;<put-attribute name="body" value="/WEB-INF/pages/paySlip/paySlipList.jsp" />&ndash;&gt;-->
+	<!--&lt;!&ndash;</definition>&ndash;&gt;-->
+
+	<!--&lt;!&ndash;<definition name="hryear/create" extends="layout.main">&ndash;&gt;-->
+		<!--&lt;!&ndash;<put-attribute name="body" value="/WEB-INF/pages/hryear/create.jsp" />&ndash;&gt;-->
+	<!--&lt;!&ndash;</definition>&ndash;&gt;-->
+	<!--&lt;!&ndash;<definition name="department/departmentForm" extends="layout.main">&ndash;&gt;-->
+		<!--&lt;!&ndash;<put-attribute name="body" value="/WEB-INF/pages/department/departmentForm.jsp" />&ndash;&gt;-->
+	<!--&lt;!&ndash;</definition>&ndash;&gt;-->
+	<!--&lt;!&ndash;<definition name="employeeType/empTypeCreate" extends="layout.main">&ndash;&gt;-->
+		<!--&lt;!&ndash;<put-attribute name="body" value="/WEB-INF/pages/employeeType/empTypeCreate.jsp" />&ndash;&gt;-->
+	<!--&lt;!&ndash;</definition>&ndash;&gt;-->
+	<!--&lt;!&ndash;<definition name="jobLevel/jobLevelCreate" extends="layout.main">&ndash;&gt;-->
+		<!--&lt;!&ndash;<put-attribute name="body" value="/WEB-INF/pages/jobLevel/jobLevelCreate.jsp" />&ndash;&gt;-->
+	<!--&lt;!&ndash;</definition>&ndash;&gt;-->
+	<!--&lt;!&ndash;<definition name="holiday/create" extends="layout.main">&ndash;&gt;-->
+		<!--&lt;!&ndash;<put-attribute name="body" value="/WEB-INF/pages/holiday/create.jsp" />&ndash;&gt;-->
+	<!--&lt;!&ndash;</definition>&ndash;&gt;-->
+	<!--&lt;!&ndash;<definition name="leave/create" extends="layout.main">&ndash;&gt;-->
+		<!--&lt;!&ndash;<put-attribute name="body" value="/WEB-INF/pages/leave/create.jsp" />&ndash;&gt;-->
+	<!--&lt;!&ndash;</definition>&ndash;&gt;-->
+<!--</tiles-definitions>-->
